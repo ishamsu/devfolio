@@ -1,0 +1,20 @@
+[debug] [2020-01-26T14:19:49.411Z] ----------------------------------------------------------------------
+[debug] [2020-01-26T14:19:49.413Z] Command:       /usr/local/Cellar/node/13.3.0/bin/node /usr/local/bin/firebase deploy
+[debug] [2020-01-26T14:19:49.414Z] CLI Version:   7.11.0
+[debug] [2020-01-26T14:19:49.414Z] Platform:      darwin
+[debug] [2020-01-26T14:19:49.414Z] Node Version:  v13.3.0
+[debug] [2020-01-26T14:19:49.424Z] Time:          Sun Jan 26 2020 19:49:49 GMT+0530 (India Standard Time)
+[debug] [2020-01-26T14:19:49.424Z] ----------------------------------------------------------------------
+[debug] [2020-01-26T14:19:49.424Z] 
+[debug] [2020-01-26T14:19:49.446Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-01-26T14:19:49.446Z] > authorizing via signed-in user
+[debug] [2020-01-26T14:19:49.446Z] [iam] checking project portfol-3ccbb for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2020-01-26T14:19:49.448Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-01-26T14:19:49.448Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-01-26T14:19:49.781Z] <<< HTTP RESPONSE 200
+[debug] [2020-01-26T14:19:49.802Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/portfol-3ccbb:testIamPermissions  
+
+[debug] [2020-01-26T14:19:51.606Z] <<< HTTP RESPONSE 200
+[debug] [2020-01-26T14:19:51.608Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/portfol-3ccbb  
+ 
