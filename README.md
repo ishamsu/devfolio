@@ -64,19 +64,19 @@ devfolio/
 │   └── projects.html
 │   └── contactme.html
 │   └── assets/
-│       └── bootstrap/
-            └── css
-            └── js
-        └── css/
-            └── lightbox.min.css
-            └── styles.min.css
-        └── fonts/
-        └── img/
-        └── js/
-            └── jquery.min.css
-            └── lightbox-plus-jquery.min.css
-            └── script.min.css
-            └── smart-forms.min.js
+│       ├── bootstrap/
+│       │   └── css
+│       │   └── js
+│       ├── css/
+│       │   └── lightbox.min.css
+│       │   └── styles.min.css
+│       ├── fonts/
+│       ├── img/
+│       ├── js/
+│       │   └── jquery.min.css
+│       │   └── lightbox-plus-jquery.min.css
+│       │   └── script.min.css
+│       │   └── smart-forms.min.js
 └──  screenshots
 └── .DS_Store //firebase files
 └── .firebaserc 
