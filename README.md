@@ -93,7 +93,7 @@ devfolio/
 - Contact me
 
 ## Tools used
-![Design Blocks](devfolio/screenshots/toolsused.png)
+![Design Blocks](https://raw.githubusercontent.com/ishamsu/devfolio/master/screenshots/toolsused.png)
 
 ## Firebase hosting
 Firebase hosting is a Google hosting service which provides impressively fast & free service.The following things are required for firebase Hosting
