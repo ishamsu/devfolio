@@ -167,10 +167,11 @@ firebase deploy
 ```
 ![Design Blocks](https://raw.githubusercontent.com/ishamsu/devfolio/master/screenshots/firebase-deploy.png)
 
-Congratulations! your website is now live, you can check by going to url which is provided in the command line in my case it is https://portfol-3ccbb.firebaseapp.com (you can add custom domain later)
+Congratulations! your website is now live, you can check by going to url which is provided in the command line in my case it is https://portfol-3ccbb.firebaseapp.com (you can add your custom domain later)
 
 ## Copyright and license
-Code and documentation copyright 2018 [Shamsu Musthafa](https://ishamsu.me/). Code released under the [MIT License](https://raw.githubusercontent.com/ishamsu/devfolio/master/LICENSE).
+Code and documentation copyright 2020 [Shamsu Musthafa](https://ishamsu.me/). Code released under the [MIT License](https://raw.githubusercontent.com/ishamsu/devfolio/master/LICENSE).
+
 ## Show your love*❤️*
 - Follow me on [Github](https://github.com/ishamsu)
 - Star the [Github Repository](https://github.com/ishamsu/devfolio)
