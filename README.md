@@ -26,7 +26,7 @@ In this section i will tell you how to make a simple responsive portfoilio websi
 ## Landing page
 
 First we need a landing page.
-(here is the screenshot 
+ 
 *The mobile view of the landing page*
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/ishamsu/devfolio/master/screenshots/mobile-home.png" width="" /></div>
